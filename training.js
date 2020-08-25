@@ -8,4 +8,8 @@ console.log(myAge, mySisterAge, myBrotherName);
 let WaterIsClear = false;
 let GodIsGood = true;
 console.log(WaterIsClear, GodIsGood);
+let myNewAge = 27;
+ myAge = myNewAge;
+console.log(myAge);
+
 
