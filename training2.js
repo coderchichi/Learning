@@ -1,9 +1,9 @@
 let ourNumber = 10;
 ourNumber = ourNumber + 2;
 console.log(ourNumber);
-let x = 9;
-x = x - 4;
-console.log(x);
+let thisNumber = 9;
+thisNumber = thisNumber - 4;
+console.log(thisNumber);
 let y = 8;
 y = y / 2;
 console.log(y);
