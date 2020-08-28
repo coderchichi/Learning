@@ -46,6 +46,49 @@ let pen = 8;
 book === pen 
 console.log(book === pen);
 
+let kenya  = 7;
+let uganda = 7;
+console.log(kenya!=uganda);
+
+let me = "7";
+let you = 7;
+console.log(me!=you); 
+
+let one = 6;
+let two = 7;
+console.log(one!=two);
+
+let cup = "7"
+let plate = 7;
+console.log(cup!==plate);
+
+let hand = 7;
+let leg = 7;
+console.log(hand!==leg); 
+
+let personA = "6";
+let personB = 7;
+console.log(personA!==personB);
+
+console.log(hand>personB);
+console.log (pen>kenya);
+console.log(uganda<pen);
+console.log(one!==two);
+
+let nameOne = "vanta ";
+let nameTwo = "blanta";
+console.log(nameOne+nameTwo);
+
+let size = 20;
+let status = (size >= 25) ? "big" : "small";
+console.log(status);
+let pass = 75;
+let highPass = (pass >= 80) ? "pass" : "fail";
+console.log(highPass);
+
+
+
+
 
 
 
